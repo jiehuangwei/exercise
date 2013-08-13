@@ -34,5 +34,5 @@ function dec2str_2($str)
 	return $string;
 }
 
-echo dec2str_1($temp);
+// echo dec2str_1($temp);
 echo dec2str_2($temp);
